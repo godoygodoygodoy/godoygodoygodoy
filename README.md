@@ -45,6 +45,3 @@ Plataforma para registro e acompanhamento de problemas urbanos com mapa interati
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godoygodoygodoy&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godoygodoygodoy&layout=compact&theme=tokyonight)
