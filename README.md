@@ -36,3 +36,15 @@ Plataforma para registro e acompanhamento de problemas urbanos com mapa interati
 📧 danielgodoy.txt@gmail.com
 
 🔗 LinkedIn: danielgodoylkdn
+
+## Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godoygodoygodoy&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godoygodoygodoy&layout=compact&theme=tokyonight)
