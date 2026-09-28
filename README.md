@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! Eu sou Daniel Godoy 👋
 
-<!--
-**godoygodoygodoy/godoygodoygodoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do Ensino Médio Integrado em Informática
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Full Stack em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 São Paulo, Brasil
+
+## Sobre mim
+
+Atualmente estudo desenvolvimento web e participo de projetos focados em tecnologia e impacto social.
+
+Tenho experiência com:
+
+- JavaScript
+- React
+- Node.js
+- MySQL
+- Prisma ORM
+- Git e GitHub
+- APIs REST
+
+## Projeto em destaque
+
+### Voz Urbana
+Plataforma para registro e acompanhamento de problemas urbanos com mapa interativo, votação comunitária e atualizações em tempo real.
+
+## Objetivos
+
+- Aprimorar habilidades em desenvolvimento Full Stack
+- Construir projetos escaláveis
+- Ingressar na área de Tecnologia da Informação
+
+## Contato
+
+📧 danielgodoy.txt@gmail.com
+
+🔗 LinkedIn: danielgodoylkdn
